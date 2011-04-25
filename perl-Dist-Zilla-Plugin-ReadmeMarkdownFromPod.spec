@@ -3,7 +3,7 @@
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 2
+Release:    %mkrel 3
 
 Summary:    Automatically convert POD to a README.mkdn for Dist::Zilla
 License:    GPL+ or Artistic
