@@ -1,2 +1,4 @@
+removed_sources:
+  Dist-Zilla-Plugin-ReadmeMarkdownFromPod-0.100700.tar.gz: e979bdb022b498aef892cb40e53d5cf205ce47d7
 sources:
-  "Dist-Zilla-Plugin-ReadmeMarkdownFromPod-0.100700.tar.gz": e979bdb022b498aef892cb40e53d5cf205ce47d7
+  Dist-Zilla-Plugin-ReadmeMarkdownFromPod-0.120120.tar.gz: a45a29e91606d9ccafce0a1310d475ca3d80ac5a

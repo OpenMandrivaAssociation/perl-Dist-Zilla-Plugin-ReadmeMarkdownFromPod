@@ -1,11 +1,12 @@
 %define upstream_name    Dist-Zilla-Plugin-ReadmeMarkdownFromPod
-%define upstream_version 0.100700
+%define upstream_version 0.120120
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	4
+Release:	1
 
 Summary:	Automatically convert POD to a README.mkdn for Dist::Zilla
+
 License:	GPL+ or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{upstream_name}
@@ -45,4 +46,5 @@ perl Makefile.PL INSTALLDIRS=vendor
 %doc README META.yml LICENSE
 %{_mandir}/man3/*
 %{perl_vendorlib}/*
+
 
